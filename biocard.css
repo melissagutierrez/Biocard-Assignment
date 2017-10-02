@@ -1,0 +1,33 @@
+     
+    body {
+      
+    background-color:#dfedf8;
+      font: 15px Didot, sans-serif;
+      line-height: 1.5;
+      color: black;
+        
+        
+ }.bg-1 { 
+      background-color: #dfedf8; /* Pink */
+      color: black;
+  }
+  .bg-2 { 
+      background-color: #d0e0ed; /* Lighter Pink */
+      color: black;
+  .container-fluid {
+      padding-top: 70px;
+      padding-bottom: 70px;
+  }
+  .navbar {
+      padding-top: 15px;
+      padding-bottom: 10px;
+      border: 0;
+      border-radius: 0;
+      margin-bottom: 0;
+      font-size: 12px;
+      letter-spacing: 5px;
+  }
+  .navbar-nav  li a:hover {
+      color: #1abc9c !important;
+  }
+  
